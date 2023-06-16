@@ -1,0 +1,61 @@
+23  
+ 474 知道 zhīdào  know  
+475 知识 zhīshi  knowledge  
+476 中 zhōng  middle; in  
+477 中国 zhōngguó  China  
+478 中间 zhōngjiān  Middle  
+479 中文 zhōngwén  Chinese  
+480 中午 zhōngwǔ  Noon  
+481 中学 zhōng  xué middle school  
+482 中学生  zhōng  xué 
+shēng  middle School student  
+483 重 zhòng  heavy  
+484 重要 zhòngyào  important  
+485 住 zhù live 
+486 准备 zhǔnbèi  Get ready  
+487 桌子 zhuōzi  Table  
+488 字 zì word, character  
+489 子（桌子）  zi （ zhuō  zi 
+） noun suffix (table)  
+490 走 zǒu go, walk 
+491 走路 zǒu lù  walk 
+492 最 zuì most  
+493 最好 zuìhǎo  Best 
+
+118 哥哥｜哥 gē ge ｜  gē elder brother  
+123 工人 gōngrén Worker
+155 回答 huídá Answer
+178 姐姐｜姐 jiě jie ｜  jiě elder sister
+210 了 le past tense marker
+224 妈妈｜妈 mā ma ｜ mā mom; mother
+241 们（朋友们） men  （  péng 
+yǒu men ） lural marker for pronouns and a few animate nouns (friends) 
+444 有时候｜有时 yǒu shí hòu ｜ yǒu shí sometimes
+94 多（形、代）  duō many; much; more  
+277 女儿 nǚ'ér  daughter  
+27 别人 bié·rén  other people  
+22 本（量）  běn  (measure word for books or volumes)  
+44 车上 chē shàng  in the car  
+269 呢 ne auxiliary word  
+ No Chinese  Pinyin  English  
+1 爱 ài love 
+2 爱好 ài hào hobby  
+3 八 bā eight  
+4 爸爸｜爸  bàba ｜ bà dad 
+5 吧 ba (interjection particle)  
+6 白（形）  bái  white  
+7 白天 bái tiān  day 
+8 百 bǎi hundred  
+9 班 bān class 
+10 半 bàn half 
+11 半年 bàn nián  half a year  
+12 半天 bàn tiān  half day  
+13 帮 bāng  help 
+14 帮忙 bāng máng  help 
+15 包 bāo package  
+16 包子 bāo zi bun 
+17 杯 bēi cup 
+18 杯子 bēi zi cup 
+19 北 běi north  
+20 北边 běi biān  North side  
+21 北京 běi jīng  Beijing  
