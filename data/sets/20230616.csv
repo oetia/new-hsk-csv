@@ -135,7 +135,7 @@ Index,Character
 1328,剪 剪刀 jian3dao1 scissors
 1460,协 協會 xie2hui4 association
 1607,狠 狠心 hen3xin1 cruel
-1698,倾 倾听 qing1ting1 listen
+1698,倾 傾聽 qing1ting1 listen
 0275,也
 0344,草
 1777,扎 紮頭髮 zha1tou2fa2 do hair
@@ -161,7 +161,7 @@ Index,Character
 1512,奔 奔跑 ben1pao3 run
 1788,诸 诸位 zhu1wei4 everyone
 1387,拼 拼音 pin1yin1 spelling
-1766,贯 贯彻 guan4che4 implement 貫徹
+1766,贯 貫徹 guan4che4 implement 
 0233,体 体育 ti3yu4 sports
 0078,西 
 0904,矮 矮 ai3 short
@@ -181,11 +181,11 @@ Index,Character
 1422,惠
 0936,财 財產 cai2chan3 property
 1192,召 召開 zhao4kai1 convene
-0076,院 医院 yi1yuan4 hospital
+0076,院 醫院 yi1yuan4 hospital
 1506,歉 道歉 dao4qian4 apologize
 0938,操 我操
-1674,粉 粉丝 fen3si1 noodles
-1287,琴 钢琴 gang1qin2 piano
+1674,粉 粉絲 fen3si1 noodles
+1287,琴 鋼琴 gang1qin2 piano
 0781,似 类似 lei4si4 similar
 1605,洋 洋蔥 yang2cong1 onion
 1151,透 透明 tou4ming2 transparent
@@ -228,7 +228,7 @@ Index,Character
 1164,咸 咸鱼 xian2yu2 salted fish
 0420,合
 1486,珠 珍珠 zhen1zhu1 pearl
-0733,极 極其 ji2qi2 extremely
+0733,极 極其 ji2qi2 extremely *
 1660,埋 埋葬 mai2zang4 bury
 1344,惜 可惜 ke3xi1 pity
 0185,没
@@ -239,7 +239,7 @@ Index,Character
 0371,当
 0583,永 永遠 yong3yuan3 forever
 0942,抄 抄寫 chao1xie3 copy
-0715,察 觀察 guan1cha2 observe
+0715,察 觀察 guan1cha2 observe *
 0196,拿
 1050,疑 無疑 wu2yi2 no doubt
 1231,叉 叉子 cha1zi fork
@@ -274,7 +274,7 @@ Index,Character
 0984,替 替 ti4 for
 0366,声 聲音 sheng1yin1 sound
 1251,聪 聰明 cong1ming clever
-1548,庄 莊嚴 zhuang1yan2 solemn
+1548,庄 莊嚴 zhuang1yan2 solemn *
 1083,扩 擴大 kuo4da4 expand
 0351,绩 成績 cheng2ji1 achievement
 0067,方
@@ -293,7 +293,7 @@ Index,Character
 1425,蔬 蔬菜 shu1cai4 vegetable
 1498,醉 醉酒 zui4jiu3 drunk
 0316,夜
-1532,异 異常 yi4chang2 abnormal 巳
+1532,异 異常 yi4chang2 abnormal 巳 *
 0755,材 材料 cai2liao4 material
 0813,怪
 0534,顺
@@ -378,9 +378,9 @@ Index,Character
 1688,欺 欺騙 qi1pian4 cheat
 0411,平
 1074,距 距離 ju4li2 distance
-0700,速 速度 su4du4 speed
-1735,拖 拖延 tuo1yan2 delay
-1316,忆 憶記 yi4ji4 memory
+0700,速
+1735,拖 拖延 tuo1yan2 delay *
+1316,忆 憶記 yi4ji4 memory *
 1040,归 歸還 gui1huan2 return
 1602,旗 旗子 qi2zi flag
 1572,凡 凡是 fan2shi4 every
@@ -399,7 +399,7 @@ Index,Character
 0198,些
 0015,子
 0265,谢
-0557,叹 嘆氣 tan4qi4 sigh
+0557,叹 嘆氣 tan4qi4 sigh *
 0865,香 香水 xiang1shui3 perfume
 0817,切
 0596,只
@@ -416,7 +416,7 @@ Index,Character
 1169,兄
 1450,卧 臥室 wo4shi4 bedroom
 1173,迅 迅速 xun4su4 rapid
-1455,艳 艷麗 yan4li4 gorgeous
+1455,艳 艷麗 yan4li4 gorgeous *
 1137,牙
 0910,摆
 1386,骗
@@ -448,80 +448,81 @@ Index,Character
 0453,受 受傷 shou4shang1 injury
 0427,湖 湖水 hu2shui3 lake
 1458,详 詳細 xiang2xi4 detailed
-1619,昏
-1340,鸭
-0921,抱
-0941,途
-1710,勺
+1619,昏 昏倒 hun1dao3 faint
+1340,鸭 鴨子 ya1zi duck
+0921,抱 抱怨 bao4yuan4 complain
+0941,途 途徑 tu2jing4 way
+1710,勺 勺子 shao2zi spoon
 1711,舌
-0610,持
-1404,乏
-1749,锋
+0610,持 支持 zhi1chi2 support
+1404,乏 缺乏 que1fa2 tolack
+1749,锋 先鋒隊 xian1feng1dui4 vanguard
+0000,鋒 feng1 pointofknife
 1058,既
-1352,劳
-0917,宝
-0682,费
-0405,刚
-1392,萄
+1352,劳 勞動 lao2dong4 labor
+0917,宝 寶貝 bao3bei4 precious
+0682,费 免費 mian3fei4 free
+0405,刚 剛才 gang1cai2 just
+1392,萄 葡萄 pu2tao2 grape
 1491,竹
-1476,犹
+1476,犹 猶豫 you2yu4 hesitate
 0575,椅
-0479,篮
+0479,篮 籃球 lan2qiu2 basketball
 0464,卡
 0226,三
 0231,谁
-0744,属
-1540,撑
+0744,属 金屬 jin1shu3 metal
+1540,撑 撐開 cheng1kai1 propopen
 0584,又
 0163,课
 0680,屋
 0654,误
 0266,新
 0148,教
-1378,摄
+1378,摄 攝影 she4ying3 shootfilm
 0864,望
-0588,愿
-1181,依
-1419,伸
+0588,愿 願望 yuan4wang4 desire
+1181,依 依然 yi1ran2 unchanged
+1419,伸 伸出 shen1chu1 stretchout
 0306,情
 0192,友
-1057,载
+1057,载 下載 xia4zai4 download
 0309,全
-1084,垃
+1084,垃 垃圾 la1ji1 garbage
 0063,得
-1580,峰
-1791,驻
-1161,谓
-0486,凉
-1465,虚
-1795,咨
-1514,逼
-1206,拜
-1211,悲
+1580,峰 山峰 shan1feng1 mountainpeak
+1791,驻 駐軍 zhu4jun1 garrison
+1161,谓 無所謂 wu2suo3wei4 itdoesnotmatter
+0486,凉 
+1465,虚 謙虛 qian1xu1 modest
+1795,咨 咨詢 zi1xun2 consultation
+1514,逼 逼迫 bi1po4 force
+1206,拜 禮拜 li3bai4 worship
+1211,悲 悲觀 bei1guan1 pessimistic
 0809,皮
-0704,种
-1053,伙
-1480,绒
-0787,落
+0704,种 種族 zhong3zu2 race
+1053,伙 夥伴 huo3ban4 partner
+1480,绒 絨線 rong2xian4 yarn
+0787,落 降落 jiang4luo4 landing
 0218,坐
 0677,式
 0286,再
-1362,漏
-1447,唯
-1289,曲
-0609,保
+1362,漏 漏洞 lou4dong4 loophole
+1447,唯 唯一 wei2yi1 only
+1289,曲 曲折 qu1zhe2 complications
+0609,保 保護 bao3hu4 protection
 0361,典
-0859,伟
+0859,伟 偉大 wei3da4 great
 0576,般
-1228,厅
-1775,允
-0485,练
-1725,掏
-0552,碗
-1433,索
+1228,厅 廳長 ting1zhang3 departmenthead
+1775,允 允許 yun3xu3 allow
+0485,练 練習 lian4xi2 practice
+1725,掏 掏出 tao1chu1 takeout
+0552,碗 碗子 wan3zi bowl
+1433,索 搜索 sou1suo3 search
 1373,托
 1113,余
-1114,企
+1114,企 企業 qi3ye4 enterprise
 1128,闪
 1179,盐
 1290,壁
