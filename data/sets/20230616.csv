@@ -61,7 +61,7 @@ Index,Character
 0611,存
 0834,深 深刻 shen1ke4 profound 氵罙
 0679,止
-1767,仪 仪式 yi2shi4 ceremony 人羊我 儀式 抗議
+1767,仪 儀式 yi2shi4 ceremony 人羊我 儀式 抗議
 1596,刮 刮风 gua1feng1 windy 颳風
 0029,大
 1204,摩 摩托车 mo2tuo1che1 motorcycle 扌麻 摩托車
@@ -93,7 +93,7 @@ Index,Character
 0023,别
 0952,序 顺序 shun4xu4 order
 1790,宅 住宅 zhu4zhai2 residence 宀乇
-1497,织 织布 zhi1bu4 weave
+1497,织 織布 zhi1bu4 weave
 0518,清 清楚 qing1chu clear
 0429,照 照片 zhao4pian4 photo
 1132,诗 诗人 shi1ren2 poet
@@ -104,11 +104,11 @@ Index,Character
 0438,划 划船 hua2chuan2 row a boat
 1516,扁 扁平 bian3ping2 flat
 0591,咱 咱们 zan2men we
-0210,旁 旁边 pang2bian1 side
-0220,认 认识 ren4shi4 know 認識
+0210,旁 旁邊 pang2bian1 side
+0220,认 認識 ren4shi4 know 認識
 0203,难
 0439,油 油漆 you2qi1 paint
-1620,混 混乱 hun4luan4 chaotic
+1620,混 混亂 hun4luan4 chaotic
 0000,昆 昆仑 kun1lun2 Kunlun Mountains
 1223,览 浏览 liu2lan3 browse
 0000,劉 劉備 liu2bei4 Liu Bei
@@ -157,7 +157,7 @@ Index,Character
 1504,傍
 1054,伴
 0893,职 職業 zhi2ye4 occupation
-1165,著 著名 zhu4ming2 famous 暑假
+1165,著 等著 deng3zhe waiting
 1512,奔 奔跑 ben1pao3 run
 1788,诸 诸位 zhu1wei4 everyone
 1387,拼 拼音 pin1yin1 spelling
@@ -234,7 +234,7 @@ Index,Character
 0185,没
 0963,统 統一 tong3yi1 unify
 0982,陆 陸地 lu4di4 land
-0270,息 信息 xi1xi1 information
+0270,息 信息 xin1xi1 information
 0044,吃
 0371,当
 0583,永 永遠 yong3yuan3 forever
@@ -266,7 +266,7 @@ Index,Character
 0836,失 失敗 shi1bai4 fail
 1637,焦 燒焦 shao1jiao1 burn 
 1561,赌 賭博 du3bo2 gamble
-1475,尤 尤其 you2qi2 especially
+1475,尤
 1684,屏 屏幕 ping2mu4 screen
 0000,莫 mo4
 1686,扑 撲滅 pu1mie4 extinguish
@@ -280,7 +280,7 @@ Index,Character
 0067,方
 1157,尾
 1612,壶 壺子 hu2zi pot
-1006,童 童年 tong2nian2 childhood
+1006,童 童贞 tong2zhen1 virgin
 1269,堆 堆積 dui1ji1 accumulate
 1736,挖 挖掘 wa1jue2 excavate
 0000,屈 屈服 qu1fu2 subdue
@@ -498,6 +498,7 @@ Index,Character
 1795,咨 咨詢 zi1xun2 consultation
 1514,逼 逼迫 bi1po4 force
 1206,拜 禮拜 li3bai4 worship
+0000,拜 拜託 bai4tuo1 request
 1211,悲 悲觀 bei1guan1 pessimistic
 0809,皮
 0704,种 種族 zhong3zu2 race
@@ -523,79 +524,80 @@ Index,Character
 1373,托
 1113,余
 1114,企 企業 qi3ye4 enterprise
-1128,闪
-1179,盐
+1128,闪 閃電 shan3dian4 lightning
+1179,盐 鹽水 yan2shui3 brine
 1290,壁
-0888,预
+0888,预 預防 yu4fang2 prevention
 1063,究
-1265,锅
+1265,锅 鍋子 guo1zi pot
 0631,步
 0292,正
-0602,嘴
+0602,嘴 嘴巴 zui3ba5 mouth
 1036,瓜
 0881,此
-1334,届
-1611,洪
-1384,脾
-0493,绿
-1187,玉
+1334,届 屆時 jie4shi2 atthetime
+1611,洪 洪水 hong2shui3 flood
+1384,脾 脾臟 pi2zang4 spleen
+0000,卑 bei1
+0493,绿 綠色 lu4se4 green
+1187,玉 拋磚引玉 pao1zhuan1yinyu4
 0277,一
-1662,盲
+1662,盲 盲人 mang2ren2 blind
 0358,春
-0987,戴
+0987,戴 戴上 dai4shang4 puton
 0236,候
-1681,偏
+1681,偏 偏見 pian1jian4 prejudice
 0208,牛
-1247,罚
-1406,绕
+1247,罚 罰款 fa2kuan3 fine
+1406,绕 繞過 rao4guo4 avoid
 0058,开
-1624,督
-1423,拾
-0363,算
+1624,督 監督 jian1du1 supervisor
+1423,拾 拾起 shi2qi3 pick
+0363,算 算了 suan4le forgetit
 0907,巴
-0808,评
-1010,官
-1446,违
-1102,描
+0808,评 評論 ping2lun4 comment
+1010,官 官員 guan1yuan2 official
+1446,违 違反 wei2fan3 violate
+1102,描 描寫 miao2xie3 describe
 0693,责
 0806,胖
 1085,圾
 0118,还
-1131,甚
+1131,甚 甚至 shen4zhi4 even
 0901,总
-0522,秋
-0513,骑
+0522,秋 秋天 qiu1tian1 autumn
+0513,骑 騎馬 qi2ma3 rideahorse
 0081,读
 0598,主
-0380,掉
-1525,仓
+0380,掉 掉下 diao4xia4 fall
+1525,仓 倉庫 cang1ku4 warehouse
 0084,多
-1776,遭
-1018,纷
-0915,括
+1776,遭 遭遇 zao1yu4 encounter
+1018,纷 紛紛 fen1fen1 oneafteranother
+0915,括 包括 bao1kuo4 include
 0614,被
-1208,扮
+1208,扮 打扮 da3ban4 dressup
 0757,束
-0721,汁
+0721,汁 精液 jing1ye4 semen
 0451,育
-0490,利
-1333,戒
+0490,利 利益 li4yi4 benefit
+1333,戒 戒指 jie4zhi ring
 0287,早
 0754,易
-1786,肿
-1230,册
-1488,挣
-1793,赚
-1189,阅
-1280,疯
+1786,肿 腫起來 zhong3qi3lai2 swell
+1230,册 冊子 ce4zi5 booklet
+1488,挣 掙錢 zheng1qian2 earnmoney
+1793,赚 賺錢 zhuan4qian2 earnmoney
+1189,阅 閱讀 yue4du2 reading
+1280,疯 發瘋 fa1feng1 crazy
 0948,赞
-1490,央
+1490,央 中央 zhong1yang1 central
 0327,成
 0861,章
 0637,厂
-0937,与
-1049,怀
-1110,均
+0937,与 與其 yu3qi2 ratherthan
+1049,怀 懷疑 huai2yi2 doubt
+1110,均 均勻 jun1yun2 even;well-distributed
 0177,下
 1537,炒
 0873,需
