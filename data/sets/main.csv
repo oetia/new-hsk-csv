@@ -463,7 +463,7 @@ Index,Character
 0917,宝 寶貝 bao3bei4 precious
 0682,费 免費 mian3fei4 free
 0405,刚 剛才 gang1cai2 just
-1392,萄 葡萄 pu2tao2 grape
+1392,萄
 1491,竹
 1476,犹 猶豫 you2yu4 hesitate
 0575,椅
@@ -539,7 +539,7 @@ Index,Character
 1611,洪 洪水 hong2shui3 flood
 1384,脾 脾臟 pi2zang4 spleen
 0000,卑 bei1
-0493,绿 綠色 lu4se4 green
+0493,绿 綠色 lv4se4 green
 1187,玉 拋磚引玉 pao1zhuan1yinyu4
 0277,一
 1662,盲 盲人 mang2ren2 blind
@@ -581,7 +581,7 @@ Index,Character
 0721,汁 精液 jing1ye4 semen
 0451,育
 0490,利 利益 li4yi4 benefit
-1333,戒 戒指 jie4zhi ring
+1333,戒 戒指 jie4zhi3 ring
 0287,早
 0754,易
 1786,肿 腫起來 zhong3qi3lai2 swell
@@ -677,7 +677,7 @@ Index,Character
 0819,祝 祝賀 zhu4he4 congratulate
 0621,格 格外 ge2wai4 especially
 1120,权 權力 quan2li4 power
-0968,汇 匯率 hui4lu4 exchangerate
+0968,汇 匯率 hui4lv4 exchangerate
 0782,另
 1656,牢 牢騷 lao2sao1 complain
 0296,重
@@ -811,9 +811,9 @@ Index,Character
 0798,某 某些 mou3xie1 some
 1733,徒 徒弟 tu2di5 disciple
 0328,遍 遍體 bian4ti3 alloverbody
-0867,效 效率 xiao4lv4 efficiency
+0867,效
 0318,饱 飽滿 bao3man3 full
-1379,陪 陪伴 pei2ban4 accompany
+1379,陪
 1221,璃 玻璃 bo1li2 glass
 1563,端 端午節 duan1wu3jie2 DragonBoatFestival
 0167,快 快樂 kuai4le4 happy
@@ -860,7 +860,7 @@ Index,Character
 1217,宾 賓客 bin1ke4 guest
 1108,培 培養 pei2yang3 cultivate
 0467,怕
-0321,背 背時 bei4shi2 recitepoetry
+0321,背 背詩 bei4shi2 recitepoetry
 0005,白
 0222,真
 0547,停
@@ -965,7 +965,7 @@ Index,Character
 0718,规 規律 gui1lv4 law
 0691,付
 1412,漠 沙漠 sha1mo4 desert
-1536,畅 暢快 chang4kuai4 carefree(smooth)
+1536,畅 暢快 chang4kuai4 carefree
 0624,播 直播 zhi2bo1 livestream
 0007,天
 0256,洗
@@ -974,78 +974,80 @@ Index,Character
 0336,满 滿意 man3yi4 satisfaction
 0572,养 養護 yang3hu4 care
 0047,来
-1779,账
-0106,诉
+1779,账 賬戶 zhang4hu4 account
+0106,诉 訴訟 su4song4 lawsuit
 0349,辆
 0055,动
-0238,树
+0238,树 樹林 shu4lin2 grove
 0213,汽
 0120,有
-1133,劲
-1121,却
+1133,劲 勁力 jin4li4 strength
+1121,却 卻是 que4shi4 nevertheless/actually
 0793,美
-0072,脑
+0072,脑 腦子 nao3zi5 brain
+0000,囟 xin4
 0922,倍
-0812,齐
-1555,盗
+0812,齐 整齊 zheng3qi2 neat
+1555,盗 盜賊 dao4zei2 thief
 0077,东
 0944,湿
-1326,肩
+1326,肩 肩膀 jian1bang3 shoulder
 0045,饭
-1510,炸
-0523,鞋
+1510,炸 爆炸 bao4zha4 explode
+0523,鞋 鞋子 xie2zi5 shoes
 0232,身
 0644,立
 1323,甲
-1359,邻
-1080,宽
-0533,熟
-1493,撞
+1359,邻 鄰居 lin2ju1 neighbor
+1080,宽 寬大 kuan1da4 spacious
+0533,熟 熟悉 shou2xi familiar
+1493,撞 撞擊 zhuang4ji1 impact
+0000,击 攻擊 gong1ji1 attack
 1360,铃
 0603,业
-0465,靠
-1350,朗
-0788,麻
-1527,纵
-1067,释
-1175,呀
+0465,靠 我靠 wo3kao4 damn
+1350,朗 朗讀 lang3du2 readaloud
+0788,麻 麻煩 ma2fan2 trouble
+1527,纵 縱橫 zong4heng2 vertical
+1067,释 解釋 jie3shi4 explain
+1175,呀 ya
 0060,学
-1177,严
-1144,殊
-0092,放
-0666,台
-0986,袋
-1523,疾
-0194,条
-0280,医
-0695,念
-1345,肯
-0359,节
-1022,则
+1177,严 嚴格 yan2ge2 strict
+1144,殊 特殊 te4shu1 special
+0092,放 放心 fang4xin1 feelatease
+0666,台 台灣 tai2wan1 taiwan
+0986,袋 袋子 dai4zi5 bag
+1523,疾 疾病 ji2bing4 disease
+0194,条 條件 tiao2jian4 condition
+0280,医 醫生 yi1sheng1 doctor
+0695,念 概念 gai4nian4 concept
+1345,肯 肯定 ken3ding4 affirm
+0359,节 季節 ji4jie2 festival
+1022,则 否則 fou3ze2 otherwise
 0519,楚
-1701,渠
-1168,郎
-1351,漫
-1424,瘦
-0847,糖
+1701,渠 水渠 shui3qu2 canal
+1168,郎 新郎 xin1lang2 bridegroom
+1351,漫 漫畫 man4hua4 manga
+1424,瘦 瘦 shou4 thin
+0847,糖 糖果 tang2guo3 candy
 0182,买
-1229,饮
-1239,乘
+1229,饮 飲料 yin3liao4 beverage
+1239,乘 乘坐 cheng2zuo4 ride
 0110,跟
-1103,述
-1796,宗
-1107,浓
+1103,述 描述 miao2shu4 describe
+1796,宗 宗教 zong1jiao4 religion
+1107,浓 濃縮 nong2suo1 concentrate
 0042,上
-0746,值
+0746,值 價值 jia4zhi2 value
 0125,看
-0204,呢
-1100,梦
-0052,从
+0204,呢 ne
+1100,梦 夢想 meng4xiang3 dream
+0052,从 從來 cong2lai2 always
 1347,库
-0545,疼
+0545,疼 疼痛 teng2tong4 ache
 0068,图
-1029,尚
-1268,洞
+1029,尚 時尚 shi2shang4 fashion
+1268,洞 挖洞 wa1dong4 digahole
 0507,宜
 1394,签
 0329,表
@@ -1835,3 +1837,13 @@ Index,Character
 
 
 0528,实 實際 shi2ji4 actual
+1592,巩 鞏固 gong3gu4 consolidate
+1656,牢 牢騷 lao2sao1 complain
+0745,价 減價 jian3jia4 discount
+1778,债 債務 zhai4wu4 debt
+1758,悬 懸掛 xuan2gua4 hang
+1384,脾 脾臟 pi2zang4 spleen
+1179,盐 鹽水 yan2shui3 brine
+1791,驻 駐軍 zhu4jun1 garrison
+1540,撑 撐開 cheng1kai1 propopen
+0917,宝 寶貝 bao3bei4 precious
