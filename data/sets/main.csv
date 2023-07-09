@@ -18,9 +18,9 @@ Index,Character
 1673,墓 墓地 mu4di4 cemetery 艹日大土
 0792,每
 0554,往 亻生
-1196,治 治疗 zhi4liao2 treat 氵台 疒了 治療 疒大日小liao4
+1196,治 治療 zhi4liao2 treat 氵台 疒了 治療 疒大日小liao4
 0529,食
-1720,素 素菜 su4cai4 vegetable dish 幺么纟糸 丰糸
+1720,素 激素 ji1su4 hormone
 0722,哈
 0561,雪
 0538,它
@@ -122,7 +122,7 @@ Index,Character
 0514,温 溫柔 wen1rou2 gentle
 0950,承 承認錯誤 cheng2ren4cuo4wu4 admit mistake
 1787,粥 粥 zhou1 porridge
-0651,创 创造 chuang4zao4 create
+0651,创 創造 chuang4zao4 create
 0939,测 測試 ce4shi4 test 
 0527,省 省錢 sheng3qian2 save money 
 1278,析 分析 fen1xi1 analyze
@@ -186,7 +186,7 @@ Index,Character
 0938,操 我操
 1674,粉 粉絲 fen3si1 noodles
 1287,琴 鋼琴 gang1qin2 piano
-0781,似 类似 lei4si4 similar
+0781,似 類似 lei4si4 similar
 1605,洋 洋蔥 yang2cong1 onion
 1151,透 透明 tou4ming2 transparent
 0000,秀 秀麗 xiu4li4 beautiful
@@ -234,7 +234,7 @@ Index,Character
 0185,没
 0963,统 統一 tong3yi1 unify
 0982,陆 陸地 lu4di4 land
-0270,息 zxin1xi1 information
+0270,息 信息 xin1xi1 information
 0044,吃
 0371,当
 0583,永 永遠 yong3yuan3 forever
@@ -934,7 +934,7 @@ Index,Character
 0630,布
 1235,寿 壽麵 shou4mian4 longevitynoodles
 1683,聘 聘請 pin4qing3 hire
-0916,薄 厚薄 hou4bo2 thickness
+0916,薄 厚薄 hou4bao2 thickness
 1234,拆 拆開 chai1kai1 open
 1037,临 臨時 lin2shi2 temporary
 0505,碰 碰到 peng4dao4 encounter
@@ -1123,79 +1123,80 @@ Index,Character
 0104,兴
 0688,父
 1176,延 延後 yan2hou4 postpone
-0826,任
+0826,任 任務 ren4wu4 task
 0062,到
 0852,痛
-1216,辑
+1216,辑 編輯 bian1ji2 compiler
 0223,日
-0145,里
-1088,泪
-0373,处
-1288,搞
-1645,纠
-1402,域
-1444,吐
-1535,盛
+0145,里 裡面 li3mian4 inside
+1088,泪 眼淚 yan3lei4 tear
+0373,处 處男 chu3nan2 virgin
+1288,搞 搞怪 gao3guai4 mischief
+1645,纠 糾紛 jiu1fen1 dispute
+1402,域 領域 ling3yu4 territory
+1444,吐 吐血 tu3xue4 spitblood
+1535,盛 繁盛 fan2sheng4 prosperous
 0009,班
 0449,饺
-0708,民
+0708,民 民族 min2zu2 nationality
 0255,五
-0882,赢
+0882,赢 輸贏 shu1ying2 winorlose
 0389,段
 0908,士
-0924,笨
-1539,撤
-1116,醒
-0460,经
-1146,填
+0924,笨 笨蛋 ben4dan4 fool
+1539,撤 撤離陣地 che4li2zhen4di4 retreat
+1116,醒 醒來 xing3lai2 wake
+0460,经 經驗 jing1yan4 experience
+1146,填 填寫 tian2xie3 fillin
 0958,虫
-0501,努
-0739,纪
-1665,猛
+0501,努 努力 nu3li4 effort
+0739,纪 紀念 ji4nian4 souvenir
+1665,猛 猛烈 meng3lie4 fierce
 0868,血
 0731,器
-0539,阳
-0697,紧
-1253,款
+0539,阳 陽光 yang2guang1 sunshine
+0697,紧 緊穴 jin3xue2 tightcave
+1253,款 款項 kuan3xiang4 payment
 1789,煮
-1031,供
+1031,供 供給 gong1ji3 supply
 0372,倒
-0667,邮
+0667,邮 郵件 you2jian4 mail
+0000,垂 chui2
 1375,仔
 0357,吹
-0967,纯
+0967,纯 單純 dan1chun2 pure
 0783,龙
-0735,础
-1035,固
-0970,激
-1374,龄
+0735,础 基礎 ji1chu3 base
+1035,固 鞏固 gong3gu4 consolidate
+0970,激 激素 ji1su4 hormone
+1374,龄 年齡 nian2ling2 age
 1339,烤
-1343,怜
-1603,酱
-1550,档
+1343,怜 可憐 ke3lian2 pitiful
+1603,酱 jiang4 -chan
+1550,档 檔案 dang4an4 file
 0885,箱
 0079,作
-0814,烈
+0814,烈 激烈 ji1lie4 intense
 1160,聊
 0671,象
-1381,喷
+1381,喷 噴嚏 pen1ti4 sneeze
 0057,话
 0133,花
-1140,酸
+1140,酸 酸奶 suan1nai3 yogurt
 0933,乎
-1521,踩
-0823,裙
-0504,排
-1599,阔
-0347,超
+1521,踩 踩踏 cai3ta4 trample
+0823,裙 裙子 qun2zi skirt
+0504,排 排隊 pai2dui4 line
+1599,阔 寬闊 kuan1kuo4 wide
+0347,超 超級 chao1ji2 super
 0386,度
-1024,妻
+1024,妻 妻子 qi1zi5 wife
 0894,至
-0828,仍
-1700,绪
-0475,乐
-1325,驶
-1583,苏
+0828,仍 仍然 reng2ran2 still
+1700,绪 續集 xu4ji2 sequel
+0475,乐 樂園 le4yuan2 paradise
+1325,驶 駕駛 jia4shi3 drive
+1583,苏 蘇東坡 su1dong1po1 sudongpo
 0652,造
 0172,冷
 1149,贴
@@ -1301,7 +1302,7 @@ Index,Character
 0284,远
 1066,阶
 1191,招
-0690,亲
+0690,亲 親密 qin1mi4 intimate
 1472,硬
 1782,症
 0689,母
@@ -1852,3 +1853,10 @@ Index,Character
 1791,驻 駐軍 zhu4jun1 garrison
 1540,撑 撐開 cheng1kai1 propopen
 0917,宝 寶貝 bao3bei4 precious
+1269,堆 堆積 dui1ji1 accumulate
+1640,杰 傑出 jie2chu1 outstanding
+1498,醉 醉酒 zui4jiu3 drunk
+1492,饰 飾品 shi4pin3 ornament
+1428,摔 摔跤 shuai1jiao1 tripandfall 
+1040,归 歸還 gui1huan2 return
+0557,叹 嘆氣 tan4qi4 sigh *
