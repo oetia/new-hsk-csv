@@ -823,7 +823,7 @@ Index,Character
 0260,先
 1308,猴 猴子 hou2zi5 monkey
 1748,菌 細菌 xi4jun4 bacteria
-0672,顿 頓時 dun4shi2 suddenly
+0672,顿 燉飯 dun4fan4
 0258,欢 歡迎 huan1ying2 welcome
 1760,液 液體 ye4ti3 liquid
 0138,火
@@ -1197,78 +1197,82 @@ Index,Character
 0475,乐 樂園 le4yuan2 paradise
 1325,驶 駕駛 jia4shi3 drive
 1583,苏 蘇東坡 su1dong1po1 sudongpo
-0652,造
+0652,造 創造力 chuang4zao4li4 creativity
 0172,冷
-1149,贴
-0038,唱
-0713,挂
+1149,贴 貼紙 tie1zhi3 sticker
+0038,唱 唱歌 chang4ge1 sing
+0713,挂 懸掛 xuan2gua4 hang
 0090,房
-1740,威
-0875,训
-1214,彼
+1740,威 威脅利誘 wei1xie2li4you4 threatenbribe
+0875,训 訓練 xun4lian4 train/drill
+1214,彼 彼岸花 bi3an4hua1 lycorisradiata
 1093,良
-1155,微
-1225,偿
-1759,旋
+1156,微 稍微 shao1wei1 a little
+1225,偿 賠償 pei2chang2 compensation
+1759,旋 旋風 xuan4feng1 whirlwind
 0499,鸟
 0338,部
 0028,不
-1263,德
-1639,奏
-0945,彻
-0169,师
-0912,败
-0491,旅
-0953,惊
-1097,轮
-1032,构
+1263,德 美德 mei3de2 virtue
+1639,奏 節奏 jie2zou4 rhythm
+0945,彻 貫徹 guan4che4 carryout
+0169,师 師傅 shi1fu5 master
+0912,败 失敗 shi1bai4 failure
+0491,旅 親密旅行 qin1mi4lv3xing2 intimatetravel
+0953,惊 吃驚 chi1jing1 besurprised
+1097,轮 輪胎 lun2tai1 tire
+0000,結 結束 jie2shu4 end
+1032,构 結構 jie2gou4 structure
 0587,原
-0750,建
-0657,约
+0750,建 建築 jian4zhu4 architecture
+0657,约 約會 yue1hui4 date
 0234,十
-0732,积
-1473,拥
-1156,维
-1324,驾
-1469,咬
-0934,擦
-1065,授
+0732,积 堆積 dui1ji1 accumulate
+1473,拥 擁擠 yong1ji3 crowded
+1156,维 維護 wei2hu4 maintain
+1324,驾 駕駛 jia4shi3 drive
+1469,咬 咬 yao3 bite
+0934,擦 擦鼻子 ca1bi2zi5 wipenose
+1065,授 教授 jiao4shou4 professor
 0108,个
-1727,添
-0568,选
-1167,项
-1174,亚
+1727,添 增添加 zeng1tian1jia1 increase
+0568,选 選擇 xuan3ze2 choose
+1167,项 款項 kuan3xiang4 payment
+1174,亚 亞洲 ya4zhou1 asia
 0890,增
-0947,默
-1048,吸
-1435,碎
-1233,询
-1302,滚
-0884,势
-1511,惨
+0947,默 幽默 you1mo4 humor
+1048,吸 吸引 xi1yin3 attract
+1435,碎 碎片 sui4pian4 fragment
+1233,询 咨詢 zi1xun2 consult
+1302,滚 湯滾了 tang1gun3le boiled
+0884,势 趨勢 qu1shi4 trend
+1511,惨 慘遭 can3zao1 suffer
+0000,殘 殘疾 can2ji2 disabled
 0850,跳
-0734,基
+0734,基 基礎 ji1chu3 base
 0717,管
 0454,街
 0264,小
-0075,影
-0444,健
+0075,影 影響 ying3xiang3 influence
+0444,健 健康 jian4kang1 health
 0395,向
 0176,六
-1042,寒
-1566,夺
+1042,寒 寒假 han2jia4 winterbreak
+0000,暑 暑假 shu3jia4 summerbreak
+1566,夺 奪冠 duo2guan4 takefirstplace
+0000,冠 冠軍 guan1jun1 champion
 1317,泼
 1644,井
-0595,确
+0595,确 確定 que4ding4 sure
 0061,生
-0872,修
-1342,咳
-1690,恰
+0872,修 修 xiu1 repair
+1342,咳 咳嗽 ke2sou4 cough
+1690,恰 恰好 qia4hao3 justright
 0278,衣
-0036,差
-1366,盾
-0662,底
-1626,祥
+0036,差 差點 cha4dian3 almost
+1366,盾 矛盾 mao2dun4 contradiction
+0662,底 到底 dao4di3
+1626,祥 吉祥 ji2xiang2 lucky
 1647,捐
 0977,雷
 1417,蛇
@@ -1860,3 +1864,38 @@ Index,Character
 1428,摔 摔跤 shuai1jiao1 tripandfall 
 1040,归 歸還 gui1huan2 return
 0557,叹 嘆氣 tan4qi4 sigh *
+1700,绪 續集 xu4ji2 sequel
+1100,梦 夢想 meng4xiang3 dream
+0000,击 攻擊 gong1ji1 attack
+1651,跨 跨越 kua4yue4 span
+1292,估 估計 gu1ji4 estimate
+1234,拆 拆開 chai1kai1 open
+1540,撑 撐開 cheng1kai1 propopen
+1235,寿 壽麵 shou4mian4 longevitynoodles
+0925,毕 畢業 bi4ye4 graduation
+1623,械 機械 ji1xie4 machine
+1108,培 培養 pei2yang3 cultivate
+1055,获 獲得 huo4de2 obtain
+0573,药 藥物 yao4wu4 pharmaceuticals
+0549,推 推薦 tui1jian4 recommend
+0012,帮 幫助 bang1zhu4 help
+1703,陷 陷害 xian4hai4 frame 插
+1669,誉 聲譽 sheng1yu4 reputation
+1106,宁 安寧 an1ning2 peaceful
+1709,亡 亡靈 wang2ling2 ghost
+1094,粮 糧食 liang2shi2 grain
+0869,李 李子 li3zi5 plum 季節
+1353,梨 梨子 li2zi5 pear
+0516,墙 牆 qiang2 wall
+0720,庆 慶祝 qing4zhu4 celebrate
+0626,补 補習 bu3xi2 makeuplesson
+0528,实 實際 shi2ji4 actual
+1549,搭 搭配 da1pei4 arrangeinpairs
+1786,肿 腫 zhong3 swell
+1446,违 違反 wei2fan3 violate
+1423,拾 拾起 shi2qi3 pick
+1406,绕 繞過 rao4guo4 avoid
+1334,届 屆時 jie4shi2 atthetime
+1289,曲 曲折 qu1zhe2 complications
+0787,落 降落 jiang4luo4 landing
+1455,艳 艷麗 yan4li4 gorgeous *
