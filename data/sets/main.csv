@@ -1134,7 +1134,7 @@ Index,Character
 1288,搞 搞怪 gao3guai4 mischief
 1645,纠 糾紛 jiu1fen1 dispute
 1402,域 領域 ling3yu4 territory
-1444,吐 吐血 tu3xue4 spitblood
+1444,吐 吐血 tu4xue4 spitblood
 1535,盛 繁盛 fan2sheng4 prosperous
 0009,班
 0449,饺
@@ -1337,7 +1337,7 @@ Index,Character
 0431,迎
 0473,哭
 0217,问
-0911,脫 脫衣舞孃 tuo1yi1wu1niang2 stripper
+0911,脫 脫衣舞孃 tuo1yi1wu3niang2 stripper
 1227,裁 裁縫 cai2feng1 tailor
 1440,逃
 1011,律 規律 gui1lv4 law
@@ -1430,73 +1430,74 @@ Index,Character
 0035,茶
 0902,阿
 0827,何
-1618,绘
+1618,绘 繪畫 hui4hua4 painting
 0407,更
-0920,守
+0920,守 守 shou3 guard
 0537,所
 0758,解
 1062,江
-1199,逐
+1199,逐 逐漸 zhu2jian4 gradually
 0245,岁
-1127,晒
+1127,晒 曬太陽 shai4tai4yang2 sunbathe
 0784,线
 0489,流
 0154,今
-0961,售
+0961,售 售貨 shou4huo4 sell
 0853,苦
-1311,虎
-0625,断
-0685,富
-1407,忍
-0569,颜
-1713,圣
+1311,虎 老虎 lao3hu3 tiger
+0625,断 斷開 duan4kai1 break
+0685,富 豐富 feng1fu4 rich
+1407,忍 忍耐 ren3nai4 patience
+0569,颜 顏色 yan2se4 color
+1713,圣 聖誕 sheng4dan4 christmas
 0017,北
 0127,玩
-1346,控
-1279,享
-1769,谋
+1346,控 控制 kong4zhi4 control
+1279,享 享受 xiang3shou4 enjoy
+1769,谋 陰謀 yin1mou2 conspiracy
 0927,免
-0980,针
-1765,野
+0980,针 針 zhen1 needle
+1765,野 野蠻 ye3man2 uncivilized
 0190,们
-1139,塑
+1139,塑 塑料 su4liao4 plastic
 0992,登
-1756,旺
-1601,跪
+1756,旺 旺盛 wang4sheng4 prosperous
+1601,跪 跪下 gui4xia4 kneel
 0606,把
 0180,马
 0301,最
 0496,连
 1531,略 侵略 qin1lve4 invade
-1544,宠
-1501,遵
-1588,港
+1544,宠 寵物 chong3wu4 pet
+0000,龍 龍門 long2men2 dragongate
+1501,遵 遵守 zun1shou3 abideby
+1588,港 香港 xiang1gang3 hongkong
 0517,青
-1785,忠
-1069,竟
-0476,筷
+1785,忠 忠誠 zhong1cheng2 loyal
+1069,竟 竟然 jing4ran2 unexpectedly
+0476,筷 筷子 kuai4zi chopsticks
 0157,就
-1243,臭
-1195,府
+1243,臭 臭味 chou4wei4 stink
+1195,府 政府 zheng4fu3 government
 0016,杯
-1072,局
-1772,宇
+1072,局 棋局 qi2ju2 chessboard
+1772,宇 宇宙 yu3zhou4 universe
 0546,提
 0658,夫
-1467,肃
-1019,奋
-1502,挨
-0959,抽
-1693,谦
+1467,肃 肅清 su4qing1 eliminatepurge
+1019,奋 奮鬥 fen4dou4 struggle
+1502,挨 挨近 ai1jin4 approach
+0959,抽 抽煙 chou1yan1 smoke
+1693,谦 謙虛 qian1xu1 modest
 0283,元
-0797,命
-1468,邀
+0797,命 壽命 shou4ming4 lifespan
+1468,邀 邀請 yao1qing3 invite
 0225,肉
 0026,人
-1595,障
-0437,计
-1750,嫌
-1388,频
+1595,障 路障 lu4zhang4 roadblock
+0437,计 計算 ji4suan4 calculate
+1750,嫌 嫌疑 xian2yi2 suspiciondoubt
+1388,频 视频 shi4pin2 video
 0229,网
 0037,常
 0749,简
@@ -1903,3 +1904,14 @@ Index,Character
 0787,落 降落 jiang4luo4 landing
 1455,艳 艷麗 yan4li4 gorgeous *
 0733,极 極其 ji2qi2 extremely *
+0667,邮 郵件 you2jian4 mail
+1740,威 威脅利誘 wei1xie2li4you4 threatenbribe
+1639,奏 節奏 jie2zou4 rhythm
+0568,选 選擇 xuan3ze2 choose
+0075,影 影響 ying3xiang3 influence
+1566,夺 奪冠 duo2guan4 takefirstplace
+1342,咳 咳嗽 ke2sou4 cough
+1277,弃 拋棄 pao1qi4 abandon
+1556,滴 滴水 di1shui3 drip
+1456,闲 閒置 xian2zhi4 idle
+0399,封 封鎖 feng1suo2 seal
