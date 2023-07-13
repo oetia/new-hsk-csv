@@ -1421,7 +1421,7 @@ Index,Character
 1166,县 縣 xian4 county
 0470,刻 刻苦 ke4ku3 hardworking
 0971,粗 粗心 cu1xin1 careless
-0653,村 村民 cun1min2 villager
+0653,村 農村 nong2cun1 countryside
 0399,封 封鎖 feng1suo2 seal
 0511,普 普通話 pu3tong1hua4 mandarin
 0320,纸
@@ -1498,81 +1498,81 @@ Index,Character
 0437,计 計算 ji4suan4 calculate
 1750,嫌 嫌疑 xian2yi2 suspiciondoubt
 1388,频 视频 shi4pin2 video
-0229,网
-0037,常
-0749,简
-1045,码
-1398,悄
-0469,克
-1746,牺
-1768,憾
-0687,福
+0229,网 網絡 wang3luo4 network
+0037,常 異常 yi4chang2 abnormal
+0749,简 簡單 jian3dan1 simple
+1045,码 密碼 mi4ma3 password
+1398,悄 悄悄 qiao1qiao1 quietly
+0469,克 
+1746,牺 犧牲 xi1sheng1 sacrifice
+1768,憾 缺憾 que1han4 regretableimperfection 明日方舟
+0687,福 幸福 xing4fu2 happiness
 1659,嘛
-0639,吵
-1547,醋
-1218,饼
-1158,未
-1415,涨
-1606,谐
-1300,鬼
-1641,截
-0800,容
+0639,吵 吵架 chao3jia4 quarrel
+1547,醋 醋酸 cu4suan1 aceticacid
+1218,饼 餅乾 bing3gan1 biscuit
+1158,未 未來 wei4lai2 future
+1415,涨 漲價 zhang3jia4 priceincrease
+1606,谐 和諧 he2xie2 harmonious
+1300,鬼 鬼魂 gui3hun2 ghost
+1641,截 截 jie2 cut
+0800,容 容易 rong2yi4 easy
 0160,考
 0956,寸
-1186,幼
+1186,幼 幼女 you4nv3 younggirl
 0821,世
-1519,捕
-0877,烟
-0913,裹
+1519,捕 捕捉 bu3zhuo1 capture
+0877,烟 煙花 yan1hua1 fireworks
+0913,裹 裹紮 guo3zha1 wrapup
 0152,介
-1653,赖
+1653,赖 賴床 lai4chuang2 oversleep
+1655,懒 懶惰 lan3duo4 lazy
 0509,漂
-1135,暑
-1250,辞
-1503,罢
+1135,暑 暑假 shu3jia4 summerholiday
+1250,辞 辭職 ci2zhi2 resign
+1503,罢 罷工 ba4gong1 strike
 0103,高
-1445,兔
-1443,偷
+1445,兔 色兔 se4tu4 colorrabbit
+1443,偷 偷偷 tou1tou1 secretly
 0586,言
-1593,贡
-1143,躺
+1593,贡 貢獻 gong4xian4 contribute
+1143,躺 躺下 tang3xia4 lie
 0053,错
 0151,姐
 0403,感
-1745,蹈
+1745,蹈 蹈海 dao3hai3 commitsuicidebtyjumpingintotheocean
 0207,您
-1702,券
-1122,燃
-1578,裂
+1702,券 優惠券 you1hui4quan4 coupon
+1122,燃 燃燒 ran2shao1 burn
+1578,裂 裂開 lie4kai1 split
 0008,百
-1014,映
-1617,毁
+1014,映 映像 ying4xiang4 reflection
+1617,毁 毀滅 hui3mie4 exterminate
 1060,减
-0452,接
-0253,忘
-1327,艰
-0896,猪
+0452,接 接受 jie1shou4 accept
+0253,忘 忘記 wang4ji4 forget
+1327,艰 艱難 jian1nan2 difficult
+0896,猪 豬肉 zhu1rou4 pork
 1564,伍
 0880,义
-1697,侵
 0623,并
-0345,层
-1538,股
+0345,层 層樓 ceng2lou2 floor
+1538,股 股票 gu3piao4 stock
 0262,在
-1321,挤
-1438,抬
-0150,楼
+1321,挤 擠擠 ji3ji3 crowded
+1438,抬 抬 tai2 lift
+0150,楼 樓梯 lou2ti1 stairs
 0472,空
 0640,架
 1783,枝
-1694,潜
-0550,腿
-0928,编
-0488,留
-1631,监
-1171,择
+1694,潜 潛水 qian2shui3 diving
+0550,腿 腿腳 tui3jiao3 leg
+0928,编 編輯 bian1ji2 edit
+0488,留 留下 liu2xia4 leavebehind
+1631,监 監獄 jian1yu4 prison
+1171,择 選擇 xuan3ze2 choose
 0146,见
-1732,铜
+1732,铜 銅礦 tong2kuang4 coppermine
 0402,改
 0954,迟
 1689,氛
@@ -1657,7 +1657,7 @@ Index,Character
 0795,族
 0645,员
 1012,翻
-1655,懒
+
 0556,喂
 0681,访
 0577,直
@@ -1906,7 +1906,7 @@ Index,Character
 0733,极 極其 ji2qi2 extremely *
 0667,邮 郵件 you2jian4 mail
 1740,威 威脅利誘 wei1xie2li4you4 threatenbribe
-1639,奏 節奏 jie2zou4 rhythm
+1639,奏 節奏 jie2zou4 rhythmtempo
 0568,选 選擇 xuan3ze2 choose
 0075,影 影響 ying3xiang3 influence
 1566,夺 奪冠 duo2guan4 takefirstplace
@@ -1915,3 +1915,4 @@ Index,Character
 1556,滴 滴水 di1shui3 drip
 1456,闲 閒置 xian2zhi4 idle
 0399,封 封鎖 feng1suo2 seal
+1019,奋 奮鬥 fen4dou4 struggle
